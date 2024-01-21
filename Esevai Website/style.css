@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:'Open Sans', sans-serif;
+    
+}
+body{
+    background-color: #f0f0ed;;
+}
+.container{
+    background-color: black;
+    height: 60px;   
+}
+.f4{
+    background-color: white;
+}
+.f2{
+    background-color: white;
+}
+.f3{
+    background-color: white;
+}
+#w1{
+    background-color: #008000;
+    padding: 10px 50px 10px 60px;
+    margin: 50px 40px 10px 40px;
+    font-weight: bold;
+    color: white;
+}
+#w2{
+    background-color: #008000;
+    padding: 10px 50px 10px 70px;
+    margin: 50px 40px 10px 40px;
+    font-weight: bold;
+    color: white;
+}
+#g2{
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+#img1{
+    margin-top: 2px;
+    margin-left: 5px;
+}
+#img4{
+    margin-left: 100px;
+}
+.f2 p{
+    border: 1px solid rgb(187, 178, 178);
+    padding: 15px 10px 15px 10px;
+    font-size: 15px;
+}
+.f3 p{
+    border: 1px solid rgb(187, 178, 178);
+    padding: 15px 0px 15px 10px;
+    font-size: 15px;
+}
+#g1{
+    font-size: 20px;
+    font-weight: bold;
+}
+#g4{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+#e1{
+    margin-left: 80px;
+}
+.j4{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+#esevai{
+    color: #008000;
+    font-size: 40px;
+    font-weight: bold;   
+}
+#tamil{
+    color: red;
+    font-weight: bold; 
+}
+.last{
+    padding-left: 650px;
+}
+.container div{
+    margin-left: 7px;
+}
+.container .first_row{
+    display: flex; 
+     
+}
+.container .second_row{
+    display: flex; 
+   
+    margin-top: 6px; 
+    
+}
+.container p{
+    
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 3px 0px 0px 5px;
+    
+}
+
+.container a{
+    color: white;
+    text-decoration: none;
+}
+.second_row p{
+    margin-right: 13px;
+}
+.container_2{
+    display: flex;
+    background-color: white;
+}
+.container_3{
+    background-color: #008000;
+}
+.container_3 ul{
+    display: flex;  
+}
+ul{
+    list-style-type: none;
+    color: white;
+    margin-left: 170px;
+    padding: 15px;
+    font-weight: bold;
+}
+ul li{
+    margin-left: 30px;
+}
+.container_4{
+    margin-top: 23px;
+}
+
+h3{
+    background-color: #008000;
+    color: white;
+    padding: 10px;
+    width: 340px;
+}
+.container_4{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+
+
+
+
+
